@@ -1,5 +1,5 @@
 #!/bin/bash
-# Purpose: Block all traffic from AFGHANISTAN (af) and CHINA (CN). Use ISO code. #
+# Purpose: Block all traffic from Russia (ru) and Belarus (by). Use ISO code. #
 # See url for more info - http://www.cyberciti.biz/faq/?p=3402
 # Author: nixCraft <www.cyberciti.biz> under GPL v.2.0+
 # -------------------------------------------------------------------------------
