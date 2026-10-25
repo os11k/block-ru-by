@@ -13,7 +13,7 @@ EGREP=/bin/egrep
 ### No editing below ###
 SPAMLIST="countrydrop"
 ZONEROOT="/root/iptables"
-DLROOT="http://www.ipdeny.com/ipblocks/data/countries"
+DLROOT="https://www.ipdeny.com/ipblocks/data/countries"
 
 cleanOldRules(){
 #$IPT -F
